@@ -1,3 +1,5 @@
+package Demo;
+
 class day01 {
     public static void main(String[] args){
         int a=12;
